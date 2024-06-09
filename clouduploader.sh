@@ -25,7 +25,7 @@ if [ ! -f "$file_path" ]; then
     exit 1
 fi
 
-# Define the S3 bucket name (replace with your bucket name)
+# Define the S3 bucket name
 bucket_name="myemmy"
 
 # Define the target path in S3
