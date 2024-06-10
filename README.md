@@ -14,7 +14,7 @@ This is a simple bash-based CLI tool that allows users to quickly upload files t
 
 2. **Bash Shell*: Ensure you are using a Unix-based system like Linux, macOS, or Windows for Linux, with Bash installed.
 
-3. **S3 Bucket*: An existing AWS S3 bucket to upload files to.
+3. **S3 Bucket*: An existing AWS S3 bucket to upload files to, (https://docs.aws.amazon.com/s3/index.html)
 
 ## Set up
 This is the set up I used on aws cloudshell which i believe can be customized;
