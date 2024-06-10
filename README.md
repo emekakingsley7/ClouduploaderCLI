@@ -8,11 +8,13 @@ This is a simple bash-based CLI tool that allows users to quickly upload files t
 ## Prereguities
  To successfully create this, you need certain skills which based on my experience helped alot. They are;
 
--bash shell - using any unix based system like linux, macos etc
-    
-     -aws cli - very important as this will help. check the links for more information, installation guide https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html, configuration guide: https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html
-     
-     - s3 bucket -  set up or use an existing s3 bucket to upload the file to, [AWS S3 Documentation](https://docs.aws.amazon.com/s3/index.html)
+ **AWS CLI*: Installed and configured with appropriate credentials.
+   - Installation guide: https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
+   - Configuration guide: https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html
+
+2. **Bash Shell*: Ensure you are using a Unix-based system like Linux, macOS, or Windows for Linux, with Bash installed.
+
+3. **S3 Bucket*: An existing AWS S3 bucket to upload files to.
 
 ## Set up
 This is the set up I used on aws cloudshell which i believe can be customized;
