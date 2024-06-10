@@ -6,8 +6,9 @@ This is a bash CLI tool that allows users to upload files quickly, providing a s
 This is a simple bash-based CLI tool that allows users to quickly upload files to an S3, providing a simple and seamless upload experience similar to users.
 
 ## Prereguities
-To successfully create this, you need certain skills which based on my experience helped alot. They are;
-     -bash shell - using any unix based system like linux, macos etc
+ To successfully create this, you need certain skills which based on my experience helped alot. They are;
+
+-bash shell - using any unix based system like linux, macos etc
     
      -aws cli - very important as this will help. check the links for more information, installation guide https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html, configuration guide: https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html
      
