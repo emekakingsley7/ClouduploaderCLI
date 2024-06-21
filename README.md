@@ -5,7 +5,7 @@ This is a bash CLI tool that allows users to upload files quickly, providing a s
 ## Overview
 This is a simple bash-based CLI tool that allows users to quickly upload files to an S3, providing a simple and seamless upload experience similar to users.
 
-## Prereguities
+## Prerequisite
  To successfully create this, you need certain skills which based on my experience helped alot. They are;
 
  **AWS CLI*: Installed and configured with appropriate credentials.
